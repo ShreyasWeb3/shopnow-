@@ -8,7 +8,7 @@ import Thanks from "./components/Thanks"
 
 
 export const config = {
-  endpoint: `https://shopnowcraze.herokuapp.com/api/v1`,
+  endpoint: `https://shopnow56.onrender.com`,
 };
 
 function App() {
